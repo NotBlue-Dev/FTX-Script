@@ -1,0 +1,14 @@
+{ 
+"account":
+	{
+	"api_key":"",
+	"api_secret":"",
+	"subaccount":""
+	},
+"settings": 	
+	{
+	"time":60.0,
+	"coin":["USDT", "USD"],
+	"prettyprint":"True"
+	}
+}
